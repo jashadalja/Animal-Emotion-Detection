@@ -9,3 +9,5 @@ pip install tkinter Pillow numpy opencv-python tensorflow
 
 1] first run 'animal_emotion-detection.ipynb'
 2] run 'animal_emotion_gui.py'
+
+![image](https://github.com/jashadalja/Animal-Emotion-Detection/blob/main/ouputproj1.png?raw=true)
